@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mc-k8s:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-07T12:46:20.946294-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 8126029f9bdf9841ec4d4b03311b0050dd43ef435d12efe3945eecdb2cecb4e2
+    name: mc-k8s
+    type: application
+    urls:
+    - https://adamosmi.github.io/charts/mc-k8s-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-07T12:46:20.9457873-04:00"
